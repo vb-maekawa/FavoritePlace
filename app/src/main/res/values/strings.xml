@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FavoritePlace</string>
+
+    <string-array name="station_list">
+        <item>香里園駅</item>
+        <item>萱島駅</item>
+        <item>寝屋川市駅</item>
+        <item>淀屋橋</item>
+        <item>なんば</item>
+    </string-array>
+
+    <string-array name="golf_list">
+        <item>星田ゴルフセンター</item>
+        <item>忍が丘ゴルフセンター</item>
+        <item>高槻ゴルフクラブ</item>
+        <item>枚方国際ゴルフクラブ</item>
+        <item>私市カントリークラブ</item>
+    </string-array>
+
+</resources>
